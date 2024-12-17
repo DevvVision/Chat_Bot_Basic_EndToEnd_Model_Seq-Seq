@@ -1,4 +1,4 @@
-tensorflow==2.14.0
+tensorflow==2.13.0
 tensorflow-hub
 tensorflow-text
 streamlit==1.19.0
