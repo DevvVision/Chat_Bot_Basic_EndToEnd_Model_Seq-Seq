@@ -156,6 +156,3 @@ Feel free to fork, improve, and create pull requests. Contributions are welcome!
 
 **⭐ If you found this project useful, don't forget to give it a star! ⭐**
 
---- 
-
-This version is clean, professional, and engaging with a mix of structure, visuals, and highlights. Let me know if you'd like to tweak any section! 🚀
